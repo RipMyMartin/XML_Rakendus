@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<inimene saasta="1960">
+	<nimi>Olga Sild</nimi>
+	<elukoht>Rakvere</elukoht>
+	<Lapsed>
+		<inimene saasta="1987">
+			<nimi>Marek Sild</nimi>
+			<elukoht>Rakvere</elukoht>
+			<Lapsed>
+				<inimene saasta="2020">
+					<nimi>Bulharbor Sild</nimi>
+					<elukoht>Rakvere</elukoht>
+				</inimene>
+			</Lapsed>
+		</inimene>
+		<inimene saasta="1983">
+			<nimi>Tarmo Sild</nimi>
+			<elukoht>Lagedi</elukoht>
+			<Lapsed>
+				<inimene saasta="2007">
+					<nimi>Martin Sild</nimi>
+					<elukoht>Lagedi</elukoht>
+				</inimene>
+				<inimene saasta="2009">
+					<nimi>Rinaldo Sild</nimi>
+					<elukoht>Lagedi</elukoht>
+				</inimene>
+				<inimene saasta="2014">
+					<nimi>Liana Sild</nimi>
+					<elukoht>Lagedi</elukoht>
+				</inimene>
+			</Lapsed>
+		</inimene>
+	</Lapsed>
+</inimene>

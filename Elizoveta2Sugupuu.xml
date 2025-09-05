@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--jada-->
+<inimene saasta="1926">
+	<nimi>Elizoveta II</nimi>
+	<lapsed>
+		<inimene saasta="1948">
+			<nimi>Charles</nimi>
+			<lapsed>
+				<inimene saasta="1982">
+					<nimi>William</nimi>
+				</inimene>
+
+				<inimene saasta="1984">
+					<nimi>Prince Harry</nimi>
+				</inimene>
+			</lapsed>
+		</inimene>
+
+		<inimene saasta="1950">
+			<nimi>anne</nimi>
+		</inimene>
+
+		<inimene saasta="1960">
+			<nimi>Andrew</nimi>
+		</inimene>
+
+		<inimene saasta="1964">
+			<nimi>Edward</nimi>
+		</inimene>
+	</lapsed>
+</inimene>
